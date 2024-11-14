@@ -1,1 +1,1 @@
-# Sales-Analysis-Power-BI
+![Sales-Analysis-Power-BI](attrition.jpg)
